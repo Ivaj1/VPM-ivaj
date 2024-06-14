@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Ivaj Listing",
+    "id":"com.ivaj.Listing",
+    "url":"https://ivaj1.github.io/VPM-ivaj/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"email",
+        "name":"Ivaj",
+        "url":"https://vrchat.com/home/user/usr_6cc30b65-edf2-4e49-ac50-d56aa533d822"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/ivaj1/VPM-ivaj",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
@@ -18,10 +18,10 @@
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.ivaj.udonbakeryadapter",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/Ivaj1/Udon-Bakery-Adapter/releases/download/relase/com.ivaj.udonbakeryadapter.zip",
+                
             ]
         }
     ]
