@@ -13,7 +13,9 @@
         "text":"View on GitHub "
     },
     "bannerUrl":"banner.png",
-   
+   "githubRepos":[
+        "Ivaj1/Udon-Bakery-Adapter"
+    ],
     "packages":[
         {
             "name":"com.ivaj.udonbakeryadapter",
