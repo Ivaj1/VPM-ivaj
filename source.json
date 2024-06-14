@@ -13,9 +13,9 @@
         "text":"View on GitHub "
     },
     "bannerUrl":"banner.png",
-   "githubRepos":[
-        "Ivaj1/Udon-Bakery-Adapter"
-    ],
+    "githubRepos":[
+        "vrchat-community/clientsim"
+     ],
     "packages":[
         {
             "name":"com.ivaj.udonbakeryadapter",
